@@ -53,7 +53,7 @@ Status: QUALIFIED (threshold: 99%)
 - Hardware: Single CPU (model is 260 parameters)
 
 ## Link to Code
-https://github.com/jackcai0/smallest_addition_TF
+https://github.com/jackcai1206/smallest-addition-transformer
 
 - Submission: `submission_260.py`
 - Checkpoint: `best_model_260.pt`

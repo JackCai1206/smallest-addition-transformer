@@ -54,7 +54,7 @@ Same architecture as the 260p model but with **RMSNorm replacing LayerNorm**, sa
 - Hardware: Single CPU
 
 ## Link to Code
-https://github.com/jackcai0/smallest_addition_TF
+https://github.com/jackcai1206/smallest-addition-transformer
 
 - Submission: `submission_242.py`
 - Checkpoint: `best_model_242.pt`
