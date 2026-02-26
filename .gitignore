@@ -1,4 +1,20 @@
 __pycache__/
 wandb/
-slurm_*.out
 *.pyc
+
+# Logs
+logs/
+slurm_*.out
+
+# Experimental checkpoints and results (too many to track)
+checkpoints/
+experiments/results/
+
+# Checkpoint patterns from running experiments
+best_spwd_*.pt
+best_spos_*.pt
+ckpt_*.pt
+results_*.json
+
+# Keep only submission checkpoints at top level
+# best_model_242.pt and best_model_260.pt are tracked
